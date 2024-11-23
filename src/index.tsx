@@ -8,7 +8,7 @@ app.use(renderer)
 app.get('/', (c) => {
   return c.render(
     <h1>
-      Learning deploy with honojs
+      This is my first update!
     </h1>
   )
 })
